@@ -40,7 +40,9 @@ The goal was to test host-to-host communication across two switches and observe 
 
 ### On Switches:
 show mac address-table
+
 clear mac address-table dynamic
+
 show interfaces status
 
 ### On PCs:
