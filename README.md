@@ -45,7 +45,9 @@ show interfaces status
 
 ### On PCs:
 ipconfig /all
+
 ping 192.168.1.3
+
 arp -a
 
 ---
