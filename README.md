@@ -43,16 +43,10 @@ show mac address-table
 clear mac address-table dynamic
 show interfaces status
 
-shell
-Copy code
-
 ### On PCs:
 ipconfig /all
 ping 192.168.1.3
 arp -a
-
-yaml
-Copy code
 
 ---
 
