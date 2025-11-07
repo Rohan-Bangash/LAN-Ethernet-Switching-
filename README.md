@@ -5,7 +5,7 @@ Layer 2 networking lab built in Cisco Packet Tracer demonstrating ARP resolution
 ---
 
 ## Overview
-This lab simulates a small Ethernet LAN environment using Cisco Packet Tracer.  
+This lab simulates an Ethernet LAN environment using Cisco Packet Tracer.  
 The goal was to test host-to-host communication across two switches and observe how the Address Resolution Protocol (ARP) and ICMP operate within a Layer 2 network.
 
 ---
@@ -65,7 +65,7 @@ arp -a
 ## Concepts Demonstrated
 - OSI Model: Focus on Layer 2 (Data Link) and Layer 3 (Network) interaction.  
 - ARP operation and MAC learning.  
-- Basic Ethernet switching and connectivity testing.  
+- Ethernet switching and connectivity testing.  
 - Use of simulation tools for network analysis.
 
 ---
@@ -80,4 +80,4 @@ arp -a
 - How Ethernet switches build and maintain MAC address tables dynamically.  
 - The role of ARP in enabling IP communication within the same subnet.  
 - How to use Cisco IOS commands to monitor and troubleshoot network behavior.  
-- How to visualize and interpret packet flow using Packet Tracer Simulation Mode.
+- How to visualize and interpret packet flow using Cisco Packet Tracer Simulation Mode.
